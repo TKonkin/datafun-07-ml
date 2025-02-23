@@ -8,3 +8,4 @@ scipy
 requests
 ipython
 ipykernel
+scikit-learn
